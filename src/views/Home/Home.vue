@@ -1,0 +1,13 @@
+<template>
+  <v-container>asdfs</v-container>
+</template>
+
+<script>
+export default {
+    name: "Home"
+}
+</script>
+
+<style lang="scss" scoped>
+
+</style>
